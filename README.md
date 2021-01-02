@@ -5,4 +5,4 @@
 * staircase.py - to print in same line: print("geeks", end =" ") and the print("geeksforgeeks") would print geeks geeksforgeeks
                - for i in range(1,n+1):
                     print " "*(n-i) + "#"*i
-* arr.count(max(arr))
+* arr.count(max(arr)) - take note of count() and max()
